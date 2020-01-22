@@ -2,7 +2,7 @@
   "name": "developers-blog-2.o",
   "version": "1.0.0",
   "description": "",
-  "node": "0.15.3",
+  "node": "10.15.3",
   "main": "server.js",
   "scripts": {
     "start": "node server",
