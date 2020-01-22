@@ -2,7 +2,9 @@
   "name": "developers-blog-2.o",
   "version": "1.0.0",
   "description": "",
-  "node": "10.15.3",
+  "engines": {
+    "node": "10.15.3"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server",
