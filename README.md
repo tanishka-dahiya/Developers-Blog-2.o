@@ -1,5 +1,5 @@
 # Developers-Blog
-In this project you Register yourself as a developer and creates your profile by adding your contact details,skills in which you are working and your educational details.and you can easily search and contact to other developers and aslo create posts and on that post all developers can discuss abou it.
+In this project you Register yourself as a developer and creates your profile by adding your contact details,skills in which you are working and your educational details.and you can easily search and contact to other developers and also create posts and on that post all developers can discuss about it.
 ## Installation
 1)Clone this repository<br/>
 for server:
